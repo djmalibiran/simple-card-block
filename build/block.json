@@ -3,7 +3,7 @@
   "apiVersion": 3,
   "name": "create-block/simple-card-block",
   "version": "0.1.0",
-  "title": "Dynamic Block 4",
+  "title": "Simple Card Block",
   "category": "widgets",
   "icon": "smiley",
   "description": "Example block scaffolded with Create Block tool.",

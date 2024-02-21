@@ -1,4 +1,4 @@
-=== Dynamic Block 4 ===
+=== Simple Card Block ===
 Contributors:      The WordPress Contributors
 Tags:              block
 Tested up to:      6.1

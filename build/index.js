@@ -227,7 +227,7 @@
   \************************/
 /***/ ((module) => {
 
-        module.exports = /*#__PURE__*/JSON.parse('{"$schema":"https://schemas.wp.org/trunk/block.json","apiVersion":3,"name":"create-block/simple-card-block","version":"0.1.0","title":"Dynamic Block 4","category":"widgets","icon":"smiley","description":"Example block scaffolded with Create Block tool.","example":{},"attributes":{"title":{"type":"string"},"mediaID":{"type":"number"},"mediaURL":{"type":"string"},"mediaALT":{"type":"string"},"body":{"type":"string"}},"supports":{"html":true},"textdomain":"simple-card-block","editorScript":"file:./index.js","editorStyle":"file:./index.css","style":"file:./style-index.css","render":"file:./render.php","viewScript":"file:./view.js"}');
+        module.exports = /*#__PURE__*/JSON.parse('{"$schema":"https://schemas.wp.org/trunk/block.json","apiVersion":3,"name":"create-block/simple-card-block","version":"0.1.0","title":"Simple Card Block","category":"widgets","icon":"smiley","description":"Example block scaffolded with Create Block tool.","example":{},"attributes":{"title":{"type":"string"},"mediaID":{"type":"number"},"mediaURL":{"type":"string"},"mediaALT":{"type":"string"},"body":{"type":"string"}},"supports":{"html":true},"textdomain":"simple-card-block","editorScript":"file:./index.js","editorStyle":"file:./index.css","style":"file:./style-index.css","render":"file:./render.php","viewScript":"file:./view.js"}');
 
         /***/
 })

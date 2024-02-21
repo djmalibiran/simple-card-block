@@ -9,5 +9,5 @@ var_dump($attributes);
 echo "</pre>";
 ?>
 <p <?php echo get_block_wrapper_attributes(); ?>>
-	<?php esc_html_e( 'Dynamic Block 4 – hello from a dynamic block!', 'simple-card-block' ); ?>
+	<?php esc_html_e( 'Simple Card Block – hello from a dynamic block!', 'simple-card-block' ); ?>
 </p>
